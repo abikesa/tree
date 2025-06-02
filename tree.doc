@@ -1,0 +1,1 @@
+git log --name-status --diff-filter=D | grep assets/
