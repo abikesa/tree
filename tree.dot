@@ -1,0 +1,1 @@
+curl -s https://raw.githubusercontent.com/abikesa/tree/refs/heads/main/tree.sh | bash -s internship
